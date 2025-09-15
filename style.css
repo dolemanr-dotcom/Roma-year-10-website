@@ -2,6 +2,30 @@
     background-color: rgb(247, 191, 226);
 }
 
+.Home-heading {
+ border-style:solid;
+    border-color:rgb(223, 78, 252);
+    border-width: 3px;
+    text-shadow: 2px -2px white;
+    background-color: rgb(231, 149, 249);
+    border-radius: 7px   
+}
+
+.Home-heading-country {
+    border-style:solid;
+    border-color:rgb(223, 78, 252);
+    border-width: 3px;
+    background-color: rgb(231, 149, 249);
+    border-radius: 7px 
+}
+
+.Home-text {
+    border-color:rgb(231, 149, 249);
+    border-width: 2px;
+    border-style:solid;
+    border-radius: 7px
+}
+
 /*Germany*/
 .Germany-heading {
     border-style:solid;
@@ -140,6 +164,15 @@ border-style: dotted;
 border-width: 5px;
 border-radius: 20px;
  }
+ 
+ .England-bus-image {
+    height: 200px;
+width: 150px;
+border-color: rgb(244, 168, 168);
+border-style: dotted;
+border-width: 5px;
+border-radius: 20px;
+ }
 
 /*California*/
 .California-page {
@@ -164,6 +197,15 @@ border-radius: 20px;
 
 .California-image {
     height: 150px;
+width: 200px;
+border-color: rgb(169, 215, 247);
+border-style: dotted;
+border-width: 5px;
+border-radius: 20px;
+}
+
+.California-image-pizza {
+    height: 200px;
 width: 200px;
 border-color: rgb(169, 215, 247);
 border-style: dotted;
