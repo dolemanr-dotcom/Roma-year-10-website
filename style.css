@@ -55,6 +55,24 @@ border-style: dotted;
 border-width: 5px;
 border-radius: 20px;
 }
+
+.Germany-image-maultaschen {
+    height: 130px;
+width: 200px;
+border-color: rgb(250, 154, 208);
+border-style: dotted;
+border-width: 5px;
+border-radius: 20px; 
+}
+
+.Germany-heading-country {
+    border-style:solid;
+    border-color:rgb(245, 112, 212);
+    border-width: 3px;
+    background-color:  rgb(248, 180, 218);
+    border-radius: 7px 
+}
+
 /*Singapore*/
 .Singapore-page {
     background-color: rgb(245, 245, 160);
@@ -85,7 +103,13 @@ border-width: 5px;
 border-radius: 20px;
 }
 
-
+.Singapore-heading-country {
+    border-style:solid;
+    border-color:rgb(226, 103, 245);
+    border-width: 3px;
+    background-color: rgb(248, 180, 248);
+    border-radius: 7px 
+}
 
 /*Rarotonga*/
 .Rarotonga-page {
@@ -115,6 +139,14 @@ border-color: rgb(180, 207, 248);
 border-style: dotted;
 border-width: 5px;
 border-radius: 20px;
+}
+
+.Rarotonga-heading-country {
+    border-style:solid;
+    border-color:rgb(98, 178, 243);
+    border-width: 3px;
+    background-color: rgb(180, 207, 248);
+    border-radius: 7px 
 }
 
 /*England*/
@@ -174,6 +206,14 @@ border-width: 5px;
 border-radius: 20px;
  }
 
+ .England-heading-country {
+    border-style:solid;
+    border-color:rgb(248, 103, 103);
+    border-width: 3px;
+    background-color: rgb(244, 168, 168);
+    border-radius: 7px 
+}
+
 /*California*/
 .California-page {
     background-color: rgb(247, 187, 144)
@@ -211,6 +251,14 @@ border-color: rgb(169, 215, 247);
 border-style: dotted;
 border-width: 5px;
 border-radius: 20px;
+}
+
+.California-heading-country {
+    border-style:solid;
+    border-color:rgb(103, 161, 248);
+    border-width: 3px;
+    background-color: rgb(169, 215, 247);
+    border-radius: 7px 
 }
 
 .credit {
